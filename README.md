@@ -34,7 +34,5 @@ Example.load({
 ```
 
 ### Documentation
-+ [Any external links](https://www.google.com)
-+ [That may be helpful during development](http://www.smashingmagazine.com)
-+ [Like this](http://daringfireball.net/projects/markdown/syntax)
-+ [Or this](http://www.darkcoding.net/software/markdown-quick-reference/)
++ [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
++ [Markdown Quick Reference](http://www.darkcoding.net/software/markdown-quick-reference/)
